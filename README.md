@@ -1,4 +1,4 @@
-# book-list
+# Book List
 Repository of books I am reading or have recently read 
 
 
